@@ -1,3 +1,10 @@
+/*
+ Print the given input string in ‘X’ format.
+ Note: The string length will be of odd length.
+
+ */
+
+
 
 import java.util.Scanner;
 public class zohoCrossStringPattern {
