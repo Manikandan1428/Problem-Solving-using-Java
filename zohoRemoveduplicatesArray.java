@@ -1,3 +1,11 @@
+/*
+ Two sorted arrays will be given. 
+ Create an array consisting of the elements of two arrayswith duplicate elements removed in sorted order.
+ Note: Use only one loop. No sorting
+ */
+
+
+
 
 import java.util.Scanner;
 public class zohoRemoveduplicatesArray {
